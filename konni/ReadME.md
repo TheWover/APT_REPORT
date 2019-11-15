@@ -7,6 +7,11 @@ APT Campaign 'Konni' & 'Kimsuky' find commonality in organizations
 
 https://blog.alyac.co.kr/2347
 
+Operation Moneyholic With HWP Document 
+https://asec.ahnlab.com/1251
+
+Konni's APT Group conducts attacks with Russian-North Korean trade and economic investment documents
+https://blog.alyac.co.kr/2535
 
 ## relate to darkhotel
 
